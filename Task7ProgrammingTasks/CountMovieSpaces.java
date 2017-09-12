@@ -12,7 +12,7 @@ public class CountMovieSpaces {
             if(movietitle.charAt(x)== ' '){
                 count+=1;
 
-        }
+            }
         }
         System.out.println("there are " + count + " amount of spaces");
     }
